@@ -1,0 +1,15 @@
+.card {
+    max-width: 345;
+}
+
+.cardMedia {
+    height: 140
+}
+
+.cardFrame {
+    padding: 5px;
+}
+
+.app {
+    background-color: #83E1C3;    
+}
