@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/NewHorizonsCompanion/static/css/main.dc00b5cc.chunk.css",
-    "main.js": "/NewHorizonsCompanion/static/js/main.954b213e.chunk.js",
-    "main.js.map": "/NewHorizonsCompanion/static/js/main.954b213e.chunk.js.map",
+    "main.js": "/NewHorizonsCompanion/static/js/main.f620a965.chunk.js",
+    "main.js.map": "/NewHorizonsCompanion/static/js/main.f620a965.chunk.js.map",
     "runtime-main.js": "/NewHorizonsCompanion/static/js/runtime-main.c3de0f36.js",
     "runtime-main.js.map": "/NewHorizonsCompanion/static/js/runtime-main.c3de0f36.js.map",
     "static/js/2.cb8b999e.chunk.js": "/NewHorizonsCompanion/static/js/2.cb8b999e.chunk.js",
@@ -21,6 +21,6 @@
     "static/js/runtime-main.c3de0f36.js",
     "static/js/2.cb8b999e.chunk.js",
     "static/css/main.dc00b5cc.chunk.css",
-    "static/js/main.954b213e.chunk.js"
+    "static/js/main.f620a965.chunk.js"
   ]
 }
