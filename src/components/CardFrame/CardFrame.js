@@ -12,7 +12,7 @@ class CardFrame extends Component {
     };
 
     componentDidMount() {
-        axios.get('http://acnhapi.com/v1/fish/')
+        axios.get('https://acnhapi.com/v1/fish/')
             .then((response) => {                                
                 this.setState({fishes: response.data});     
 
